@@ -6,8 +6,7 @@
   
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009081343622) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/domkhepy/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/domingos_valoi)
 
-![domkhepy GitHub Stats](https://github-readme-stats.vercel.app/api?username=domkhepy&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
+![domkhepy GitHub Stats](https://github-readme-stats.vercel.app/api?username=domkhepy&show_icons=true&theme=radical&include_all_commits=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domkhepy&layout=compact)
 ## Tecnologias que uso no meu dia
 <div style="display: inline_block;">
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
